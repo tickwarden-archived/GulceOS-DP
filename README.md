@@ -1,10 +1,5 @@
 # GulceOS – Minecraft 1.21.7+ Vanilla Datapack (ARCHIVED)
 
-> [!WARNING]
-> This repository is **ARCHIVED** and **NO LONGER MAINTAINED**.
->  
-> 👉 Active version: https://github.com/GulcePacks/MC-ServerToolkit-PP
-
 <p align="center">
   <img src="images/banner.png" width="200">
 </p>
