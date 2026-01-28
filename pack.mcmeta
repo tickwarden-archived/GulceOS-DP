@@ -1,12 +1,25 @@
 {
   "pack": {
-    "pack_format": 94,
+    "pack_format": 88,
     "description": "GulceOS-Core by Legends11",
     "supported_formats": [
       81,
-      95
+      99999
     ],
     "min_format": 81,
-    "max_format": 95
+    "max_format": 99999
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "Beta",
+        "formats": [
+          81,
+          99999
+        ],
+        "min_format": 81,
+        "max_format": 99999
+      }
+    ]
   }
 }
